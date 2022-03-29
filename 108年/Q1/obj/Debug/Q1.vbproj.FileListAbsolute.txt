@@ -1,0 +1,11 @@
+E:\林星儒\工科歷屆試題\108年\Q1\bin\Debug\Q1.exe.config
+E:\林星儒\工科歷屆試題\108年\Q1\bin\Debug\Q1.exe
+E:\林星儒\工科歷屆試題\108年\Q1\bin\Debug\Q1.pdb
+E:\林星儒\工科歷屆試題\108年\Q1\bin\Debug\Q1.xml
+E:\林星儒\工科歷屆試題\108年\Q1\obj\Debug\Q1.vbprojAssemblyReference.cache
+E:\林星儒\工科歷屆試題\108年\Q1\obj\Debug\Q1.Form1.resources
+E:\林星儒\工科歷屆試題\108年\Q1\obj\Debug\Q1.Resources.resources
+E:\林星儒\工科歷屆試題\108年\Q1\obj\Debug\Q1.vbproj.GenerateResource.cache
+E:\林星儒\工科歷屆試題\108年\Q1\obj\Debug\Q1.exe
+E:\林星儒\工科歷屆試題\108年\Q1\obj\Debug\Q1.xml
+E:\林星儒\工科歷屆試題\108年\Q1\obj\Debug\Q1.pdb

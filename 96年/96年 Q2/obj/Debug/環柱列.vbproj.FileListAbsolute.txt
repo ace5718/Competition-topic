@@ -1,0 +1,12 @@
+C:\Users\CKVS\Desktop\環柱列\bin\Debug\環柱列.exe.config
+C:\Users\CKVS\Desktop\環柱列\bin\Debug\環柱列.exe
+C:\Users\CKVS\Desktop\環柱列\bin\Debug\環柱列.pdb
+C:\Users\CKVS\Desktop\環柱列\bin\Debug\環柱列.xml
+C:\Users\CKVS\Desktop\環柱列\obj\Debug\環柱列.vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\環柱列\obj\Debug\環柱列.Form1.resources
+C:\Users\CKVS\Desktop\環柱列\obj\Debug\環柱列.Resources.resources
+C:\Users\CKVS\Desktop\環柱列\obj\Debug\環柱列.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\環柱列\obj\Debug\環柱列.vbproj.CoreCompileInputs.cache
+C:\Users\CKVS\Desktop\環柱列\obj\Debug\環柱列.exe
+C:\Users\CKVS\Desktop\環柱列\obj\Debug\環柱列.xml
+C:\Users\CKVS\Desktop\環柱列\obj\Debug\環柱列.pdb

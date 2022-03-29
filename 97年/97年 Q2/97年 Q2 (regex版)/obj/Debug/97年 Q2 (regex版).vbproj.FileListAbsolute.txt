@@ -1,0 +1,12 @@
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\bin\Debug\97年 Q2 (regex版).exe.config
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\bin\Debug\97年 Q2 (regex版).exe
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\bin\Debug\97年 Q2 (regex版).pdb
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\bin\Debug\97年 Q2 (regex版).xml
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\obj\Debug\97年 Q2 (regex版).vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\obj\Debug\_97年_Q2__regex版_.Form1.resources
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\obj\Debug\_97年_Q2__regex版_.Resources.resources
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\obj\Debug\97年 Q2 (regex版).vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\obj\Debug\97年 Q2 (regex版).vbproj.CoreCompileInputs.cache
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\obj\Debug\97年 Q2 (regex版).exe
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\obj\Debug\97年 Q2 (regex版).xml
+C:\Users\CKVS\Desktop\97年 Q2 (regex版)\obj\Debug\97年 Q2 (regex版).pdb

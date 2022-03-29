@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\bin\Debug\107年 Q2.exe.config
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\bin\Debug\107年 Q2.exe
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\bin\Debug\107年 Q2.pdb
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\bin\Debug\107年 Q2.xml
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\obj\Debug\107年 Q2.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\obj\Debug\107年 Q2.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\obj\Debug\107年 Q2.exe
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\obj\Debug\107年 Q2.xml
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\obj\Debug\107年 Q2.pdb
+C:\Users\ASUS\Desktop\107年 Q2\107年 Q2\obj\Debug\107年 Q2.vbprojAssemblyReference.cache

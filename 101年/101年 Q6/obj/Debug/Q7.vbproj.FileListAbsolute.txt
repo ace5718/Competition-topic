@@ -1,0 +1,11 @@
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\bin\Debug\Q7.exe.config
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\bin\Debug\Q7.exe
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\bin\Debug\Q7.pdb
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\bin\Debug\Q7.xml
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\obj\Debug\Q7.vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\obj\Debug\Q7.Form1.resources
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\obj\Debug\Q7.Resources.resources
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\obj\Debug\Q7.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\obj\Debug\Q7.exe
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\obj\Debug\Q7.xml
+C:\Users\CKVS\Desktop\1119\模擬考試\Q7\obj\Debug\Q7.pdb

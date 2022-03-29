@@ -1,0 +1,28 @@
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\bin\Debug\99年 Q6.exe.config
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\bin\Debug\99年 Q6.exe
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\bin\Debug\99年 Q6.pdb
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\bin\Debug\99年 Q6.xml
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\obj\Debug\99年 Q6.vbprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\obj\Debug\99年 Q6.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\obj\Debug\99年 Q6.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\obj\Debug\99年 Q6.exe
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\obj\Debug\99年 Q6.xml
+C:\Users\ASUS\Desktop\99年 Q6\99年 Q6\obj\Debug\99年 Q6.pdb
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\bin\Debug\99年 Q6.exe.config
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\bin\Debug\99年 Q6.exe
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\bin\Debug\99年 Q6.pdb
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\bin\Debug\99年 Q6.xml
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\obj\Debug\99年 Q6.vbprojAssemblyReference.cache
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\obj\Debug\WindowsApp1.Form1.resources
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\obj\Debug\WindowsApp1.Resources.resources
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\obj\Debug\99年 Q6.vbproj.GenerateResource.cache
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\obj\Debug\99年 Q6.vbproj.CoreCompileInputs.cache
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\obj\Debug\99年 Q6.exe
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\obj\Debug\99年 Q6.xml
+J:\林星儒\工科歷屆試題\99年\99年 Q6\99年 Q6\obj\Debug\99年 Q6.pdb
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q6\99年 Q6\bin\Debug\99年 Q6.exe.config
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q6\99年 Q6\obj\Debug\99年 Q6.exe
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q6\99年 Q6\obj\Debug\99年 Q6.xml
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q6\99年 Q6\obj\Debug\99年 Q6.pdb

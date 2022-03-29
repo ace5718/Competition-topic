@@ -1,0 +1,12 @@
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\bin\Debug\99年 Q3.exe.config
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\bin\Debug\99年 Q3.exe
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\bin\Debug\99年 Q3.pdb
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\bin\Debug\99年 Q3.xml
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\obj\Debug\99年 Q3.vbprojAssemblyReference.cache
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\obj\Debug\WindowsApp1.Form1.resources
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\obj\Debug\WindowsApp1.Resources.resources
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\obj\Debug\99年 Q3.vbproj.GenerateResource.cache
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\obj\Debug\99年 Q3.vbproj.CoreCompileInputs.cache
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\obj\Debug\99年 Q3.exe
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\obj\Debug\99年 Q3.xml
+E:\林星儒\工科歷屆試題\99年 (OK)\99年 Q3\99年 Q3\obj\Debug\99年 Q3.pdb

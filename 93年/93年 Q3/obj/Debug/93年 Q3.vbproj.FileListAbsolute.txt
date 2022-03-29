@@ -1,0 +1,24 @@
+C:\Users\CKVS\Desktop\93年 Q3\bin\Debug\93年 Q3.exe.config
+C:\Users\CKVS\Desktop\93年 Q3\bin\Debug\93年 Q3.exe
+C:\Users\CKVS\Desktop\93年 Q3\bin\Debug\93年 Q3.pdb
+C:\Users\CKVS\Desktop\93年 Q3\bin\Debug\93年 Q3.xml
+C:\Users\CKVS\Desktop\93年 Q3\obj\Debug\93年 Q3.vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\93年 Q3\obj\Debug\_93年_Q3.Form1.resources
+C:\Users\CKVS\Desktop\93年 Q3\obj\Debug\_93年_Q3.Resources.resources
+C:\Users\CKVS\Desktop\93年 Q3\obj\Debug\93年 Q3.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\93年 Q3\obj\Debug\93年 Q3.vbproj.CoreCompileInputs.cache
+C:\Users\CKVS\Desktop\93年 Q3\obj\Debug\93年 Q3.exe
+C:\Users\CKVS\Desktop\93年 Q3\obj\Debug\93年 Q3.xml
+C:\Users\CKVS\Desktop\93年 Q3\obj\Debug\93年 Q3.pdb
+E:\林星儒\工科歷屆試題\93年\93年 Q3\bin\Debug\93年 Q3.exe.config
+E:\林星儒\工科歷屆試題\93年\93年 Q3\bin\Debug\93年 Q3.exe
+E:\林星儒\工科歷屆試題\93年\93年 Q3\bin\Debug\93年 Q3.pdb
+E:\林星儒\工科歷屆試題\93年\93年 Q3\bin\Debug\93年 Q3.xml
+E:\林星儒\工科歷屆試題\93年\93年 Q3\obj\Debug\93年 Q3.vbprojAssemblyReference.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q3\obj\Debug\_93年_Q3.Form1.resources
+E:\林星儒\工科歷屆試題\93年\93年 Q3\obj\Debug\_93年_Q3.Resources.resources
+E:\林星儒\工科歷屆試題\93年\93年 Q3\obj\Debug\93年 Q3.vbproj.GenerateResource.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q3\obj\Debug\93年 Q3.vbproj.CoreCompileInputs.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q3\obj\Debug\93年 Q3.exe
+E:\林星儒\工科歷屆試題\93年\93年 Q3\obj\Debug\93年 Q3.xml
+E:\林星儒\工科歷屆試題\93年\93年 Q3\obj\Debug\93年 Q3.pdb

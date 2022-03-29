@@ -1,0 +1,24 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\bin\Debug\94年 Q5.exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\bin\Debug\94年 Q5.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\bin\Debug\94年 Q5.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\bin\Debug\94年 Q5.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\obj\Debug\94年 Q5.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\obj\Debug\_94年_Q5.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\obj\Debug\_94年_Q5.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\obj\Debug\94年 Q5.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\obj\Debug\94年 Q5.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\obj\Debug\94年 Q5.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\obj\Debug\94年 Q5.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\94年 Q5\obj\Debug\94年 Q5.pdb
+G:\林星儒\工科歷屆試題\94年\94年 Q5\bin\Debug\94年 Q5.exe.config
+G:\林星儒\工科歷屆試題\94年\94年 Q5\bin\Debug\94年 Q5.exe
+G:\林星儒\工科歷屆試題\94年\94年 Q5\bin\Debug\94年 Q5.pdb
+G:\林星儒\工科歷屆試題\94年\94年 Q5\bin\Debug\94年 Q5.xml
+G:\林星儒\工科歷屆試題\94年\94年 Q5\obj\Debug\94年 Q5.vbprojResolveAssemblyReference.cache
+G:\林星儒\工科歷屆試題\94年\94年 Q5\obj\Debug\_94年_Q5.Form1.resources
+G:\林星儒\工科歷屆試題\94年\94年 Q5\obj\Debug\_94年_Q5.Resources.resources
+G:\林星儒\工科歷屆試題\94年\94年 Q5\obj\Debug\94年 Q5.vbproj.GenerateResource.Cache
+G:\林星儒\工科歷屆試題\94年\94年 Q5\obj\Debug\94年 Q5.vbproj.CoreCompileInputs.cache
+G:\林星儒\工科歷屆試題\94年\94年 Q5\obj\Debug\94年 Q5.exe
+G:\林星儒\工科歷屆試題\94年\94年 Q5\obj\Debug\94年 Q5.xml
+G:\林星儒\工科歷屆試題\94年\94年 Q5\obj\Debug\94年 Q5.pdb

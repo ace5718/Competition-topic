@@ -1,0 +1,11 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\bin\Debug\Q3(解密).exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\bin\Debug\Q3(解密).exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\bin\Debug\Q3(解密).pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\bin\Debug\Q3(解密).xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\obj\Debug\Q3(解密).vbprojAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\obj\Debug\Q3_解密_.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\obj\Debug\Q3(解密).vbproj.GenerateResource.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\obj\Debug\Q3(解密).vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\obj\Debug\Q3(解密).exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\obj\Debug\Q3(解密).xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(解密)\obj\Debug\Q3(解密).pdb

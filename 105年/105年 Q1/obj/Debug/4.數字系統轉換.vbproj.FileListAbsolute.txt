@@ -1,0 +1,12 @@
+C:\Users\CKVS\Desktop\4.數字系統轉換\bin\Debug\4.數字系統轉換.exe.config
+C:\Users\CKVS\Desktop\4.數字系統轉換\bin\Debug\4.數字系統轉換.exe
+C:\Users\CKVS\Desktop\4.數字系統轉換\bin\Debug\4.數字系統轉換.pdb
+C:\Users\CKVS\Desktop\4.數字系統轉換\bin\Debug\4.數字系統轉換.xml
+C:\Users\CKVS\Desktop\4.數字系統轉換\obj\Debug\4.數字系統轉換.vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\4.數字系統轉換\obj\Debug\_4.數字系統轉換.Form1.resources
+C:\Users\CKVS\Desktop\4.數字系統轉換\obj\Debug\_4.數字系統轉換.Resources.resources
+C:\Users\CKVS\Desktop\4.數字系統轉換\obj\Debug\4.數字系統轉換.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\4.數字系統轉換\obj\Debug\4.數字系統轉換.vbproj.CoreCompileInputs.cache
+C:\Users\CKVS\Desktop\4.數字系統轉換\obj\Debug\4.數字系統轉換.exe
+C:\Users\CKVS\Desktop\4.數字系統轉換\obj\Debug\4.數字系統轉換.xml
+C:\Users\CKVS\Desktop\4.數字系統轉換\obj\Debug\4.數字系統轉換.pdb

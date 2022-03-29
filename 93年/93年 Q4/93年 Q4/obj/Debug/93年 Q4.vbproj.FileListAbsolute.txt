@@ -1,0 +1,35 @@
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.exe.config
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.exe
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.pdb
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.xml
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\WindowsApp1.Form1.resources
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\WindowsApp1.Resources.resources
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.vbproj.GenerateResource.Cache
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.vbproj.CoreCompileInputs.cache
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.exe
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.xml
+G:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.pdb
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.exe.config
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.exe
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.pdb
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.xml
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.vbprojAssemblyReference.cache
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\WindowsApp1.Form1.resources
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\WindowsApp1.Resources.resources
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.vbproj.GenerateResource.cache
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.vbproj.CoreCompileInputs.cache
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.exe
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.xml
+J:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.pdb
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.exe.config
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.exe
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.pdb
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\bin\Debug\93年 Q4.xml
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.vbprojAssemblyReference.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\WindowsApp1.Form1.resources
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\WindowsApp1.Resources.resources
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.vbproj.GenerateResource.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.vbproj.CoreCompileInputs.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.exe
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.xml
+E:\林星儒\工科歷屆試題\93年\93年 Q4\93年 Q4\obj\Debug\93年 Q4.pdb

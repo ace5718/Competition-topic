@@ -1,0 +1,11 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\bin\Debug\Q3(加密).exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\bin\Debug\Q3(加密).exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\bin\Debug\Q3(加密).pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\bin\Debug\Q3(加密).xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\obj\Debug\Q3(加密).vbprojAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\obj\Debug\Q3_加密_.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\obj\Debug\Q3(加密).vbproj.GenerateResource.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\obj\Debug\Q3(加密).vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\obj\Debug\Q3(加密).exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\obj\Debug\Q3(加密).xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Q3(加密)\obj\Debug\Q3(加密).pdb

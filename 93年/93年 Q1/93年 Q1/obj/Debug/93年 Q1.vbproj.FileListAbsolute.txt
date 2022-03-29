@@ -1,0 +1,24 @@
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\bin\Debug\93年 Q1.exe.config
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\bin\Debug\93年 Q1.exe
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\bin\Debug\93年 Q1.pdb
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\bin\Debug\93年 Q1.xml
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.vbprojAssemblyReference.cache
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\WindowsApp1.Form1.resources
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\WindowsApp1.Resources.resources
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.vbproj.GenerateResource.cache
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.vbproj.CoreCompileInputs.cache
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.exe
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.xml
+J:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.pdb
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\bin\Debug\93年 Q1.exe.config
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\bin\Debug\93年 Q1.exe
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\bin\Debug\93年 Q1.pdb
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\bin\Debug\93年 Q1.xml
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.vbprojAssemblyReference.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\WindowsApp1.自由落體.resources
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\WindowsApp1.Resources.resources
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.vbproj.GenerateResource.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.vbproj.CoreCompileInputs.cache
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.exe
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.xml
+E:\林星儒\工科歷屆試題\93年\93年 Q1\93年 Q1\obj\Debug\93年 Q1.pdb

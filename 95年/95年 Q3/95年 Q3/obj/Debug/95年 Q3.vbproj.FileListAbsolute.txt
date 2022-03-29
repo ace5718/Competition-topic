@@ -1,0 +1,24 @@
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\bin\Debug\95年 Q3.exe.config
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\bin\Debug\95年 Q3.exe
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\bin\Debug\95年 Q3.pdb
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\bin\Debug\95年 Q3.xml
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.vbprojAssemblyReference.cache
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\WindowsApp1.Form1.resources
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\WindowsApp1.Resources.resources
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.vbproj.GenerateResource.cache
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.vbproj.CoreCompileInputs.cache
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.exe
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.xml
+J:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.pdb
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\bin\Debug\95年 Q3.exe.config
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\bin\Debug\95年 Q3.exe
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\bin\Debug\95年 Q3.pdb
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\bin\Debug\95年 Q3.xml
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.vbprojAssemblyReference.cache
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\WindowsApp1.Form1.resources
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\WindowsApp1.Resources.resources
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.vbproj.GenerateResource.cache
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.vbproj.CoreCompileInputs.cache
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.exe
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.xml
+E:\林星儒\工科歷屆試題\95年\95年 Q3\95年 Q3\obj\Debug\95年 Q3.pdb

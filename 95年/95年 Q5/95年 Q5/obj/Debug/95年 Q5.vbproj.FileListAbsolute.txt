@@ -1,0 +1,11 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\bin\Debug\95年 Q5.exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\bin\Debug\95年 Q5.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\bin\Debug\95年 Q5.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\bin\Debug\95年 Q5.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\obj\Debug\_95年_Q5.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\obj\Debug\_95年_Q5.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\obj\Debug\95年 Q5.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\obj\Debug\95年 Q5.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\obj\Debug\95年 Q5.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\obj\Debug\95年 Q5.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\95年 Q5\obj\Debug\95年 Q5.pdb

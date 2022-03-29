@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\bin\Debug\99年 Q5.exe.config
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\bin\Debug\99年 Q5.exe
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\bin\Debug\99年 Q5.pdb
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\bin\Debug\99年 Q5.xml
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\obj\Debug\99年 Q5.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\obj\Debug\99年 Q5.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\obj\Debug\99年 Q5.exe
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\obj\Debug\99年 Q5.xml
+C:\Users\ASUS\Desktop\99年 Q5\99年 Q5\obj\Debug\99年 Q5.pdb

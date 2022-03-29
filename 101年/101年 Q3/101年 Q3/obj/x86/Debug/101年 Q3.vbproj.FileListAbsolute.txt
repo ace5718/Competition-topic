@@ -1,0 +1,11 @@
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q3\bin\Debug\101年 Q3.exe
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q3\bin\Debug\101年 Q3.pdb
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q3\bin\Debug\101年 Q3.xml
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q3\obj\x86\Debug\_101年_Q3.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q3\obj\x86\Debug\101年 Q3.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q3\obj\x86\Debug\101年 Q3.exe
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q3\obj\x86\Debug\101年 Q3.xml
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q3\obj\x86\Debug\101年 Q3.pdb
+C:\Users\user\Desktop\101年 Q3\101年 Q3\obj\x86\Debug\101年 Q3.exe
+C:\Users\user\Desktop\101年 Q3\101年 Q3\obj\x86\Debug\101年 Q3.xml
+C:\Users\user\Desktop\101年 Q3\101年 Q3\obj\x86\Debug\101年 Q3.pdb

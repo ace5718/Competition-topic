@@ -1,0 +1,12 @@
+C:\Users\CKVS\Desktop\1008\93-6\bin\Debug\93-6.exe.config
+C:\Users\CKVS\Desktop\1008\93-6\bin\Debug\93-6.exe
+C:\Users\CKVS\Desktop\1008\93-6\bin\Debug\93-6.pdb
+C:\Users\CKVS\Desktop\1008\93-6\bin\Debug\93-6.xml
+C:\Users\CKVS\Desktop\1008\93-6\obj\Debug\93-6.vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\1008\93-6\obj\Debug\_93_6.Form1.resources
+C:\Users\CKVS\Desktop\1008\93-6\obj\Debug\_93_6.Resources.resources
+C:\Users\CKVS\Desktop\1008\93-6\obj\Debug\93-6.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\1008\93-6\obj\Debug\93-6.vbproj.CoreCompileInputs.cache
+C:\Users\CKVS\Desktop\1008\93-6\obj\Debug\93-6.exe
+C:\Users\CKVS\Desktop\1008\93-6\obj\Debug\93-6.xml
+C:\Users\CKVS\Desktop\1008\93-6\obj\Debug\93-6.pdb

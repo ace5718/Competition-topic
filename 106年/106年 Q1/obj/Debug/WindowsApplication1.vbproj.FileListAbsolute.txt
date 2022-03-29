@@ -1,0 +1,22 @@
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\CKVS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\CKVS\Desktop\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\CKVS\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\CKVS\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\CKVS\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\CKVS\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\CKVS\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\CKVS\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\CKVS\Desktop\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\CKVS\Desktop\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\CKVS\Desktop\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache

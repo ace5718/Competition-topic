@@ -1,0 +1,12 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\bin\Debug\99年 Q4.exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\bin\Debug\99年 Q4.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\bin\Debug\99年 Q4.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\bin\Debug\99年 Q4.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\obj\Debug\99年 Q4.vbprojAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\obj\Debug\_99年_Q4.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\obj\Debug\_99年_Q4.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\obj\Debug\99年 Q4.vbproj.GenerateResource.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\obj\Debug\99年 Q4.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\obj\Debug\99年 Q4.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\obj\Debug\99年 Q4.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\99年 Q4\obj\Debug\99年 Q4.pdb

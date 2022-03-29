@@ -1,0 +1,12 @@
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\bin\Debug\106年 Q6.exe.config
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\bin\Debug\106年 Q6.exe
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\bin\Debug\106年 Q6.pdb
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\bin\Debug\106年 Q6.xml
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\obj\Debug\106年 Q6.vbprojAssemblyReference.cache
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\obj\Debug\WindowsApp1.Form1.resources
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\obj\Debug\WindowsApp1.Resources.resources
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\obj\Debug\106年 Q6.vbproj.GenerateResource.cache
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\obj\Debug\106年 Q6.vbproj.CoreCompileInputs.cache
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\obj\Debug\106年 Q6.exe
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\obj\Debug\106年 Q6.xml
+J:\林星儒\工科歷屆試題\106年\106年 Q6\106年 Q6\obj\Debug\106年 Q6.pdb

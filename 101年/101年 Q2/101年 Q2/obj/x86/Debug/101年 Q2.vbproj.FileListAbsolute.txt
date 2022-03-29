@@ -1,0 +1,8 @@
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q2\bin\Debug\101年 Q2.exe
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q2\bin\Debug\101年 Q2.pdb
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q2\bin\Debug\101年 Q2.xml
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q2\obj\x86\Debug\_101年_Q2.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q2\obj\x86\Debug\101年 Q2.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q2\obj\x86\Debug\101年 Q2.exe
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q2\obj\x86\Debug\101年 Q2.xml
+C:\Users\user\AppData\Local\Temporary Projects\101年 Q2\obj\x86\Debug\101年 Q2.pdb

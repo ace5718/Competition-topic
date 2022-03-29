@@ -1,0 +1,12 @@
+C:\Users\CKVS\source\repos\103年 Q6\bin\Debug\103年 Q6.exe.config
+C:\Users\CKVS\source\repos\103年 Q6\bin\Debug\103年 Q6.exe
+C:\Users\CKVS\source\repos\103年 Q6\bin\Debug\103年 Q6.pdb
+C:\Users\CKVS\source\repos\103年 Q6\bin\Debug\103年 Q6.xml
+C:\Users\CKVS\source\repos\103年 Q6\obj\Debug\103年 Q6.vbprojAssemblyReference.cache
+C:\Users\CKVS\source\repos\103年 Q6\obj\Debug\_103年_Q6.Form1.resources
+C:\Users\CKVS\source\repos\103年 Q6\obj\Debug\_103年_Q6.Resources.resources
+C:\Users\CKVS\source\repos\103年 Q6\obj\Debug\103年 Q6.vbproj.GenerateResource.cache
+C:\Users\CKVS\source\repos\103年 Q6\obj\Debug\103年 Q6.vbproj.CoreCompileInputs.cache
+C:\Users\CKVS\source\repos\103年 Q6\obj\Debug\103年 Q6.exe
+C:\Users\CKVS\source\repos\103年 Q6\obj\Debug\103年 Q6.xml
+C:\Users\CKVS\source\repos\103年 Q6\obj\Debug\103年 Q6.pdb

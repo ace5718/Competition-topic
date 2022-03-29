@@ -1,0 +1,28 @@
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\bin\Debug\6.多矩陣相乘運算次方.exe.config
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\bin\Debug\6.多矩陣相乘運算次方.exe
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\bin\Debug\6.多矩陣相乘運算次方.pdb
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\bin\Debug\6.多矩陣相乘運算次方.xml
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\obj\Debug\_6.多矩陣相乘運算次方.Form1.resources
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\obj\Debug\_6.多矩陣相乘運算次方.Resources.resources
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.vbproj.CoreCompileInputs.cache
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.exe
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.xml
+C:\Users\CKVS\Desktop\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.pdb
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\bin\Debug\6.多矩陣相乘運算次方.exe.config
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\bin\Debug\6.多矩陣相乘運算次方.exe
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\bin\Debug\6.多矩陣相乘運算次方.pdb
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\bin\Debug\6.多矩陣相乘運算次方.xml
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\obj\Debug\_6.多矩陣相乘運算次方.Form1.resources
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\obj\Debug\_6.多矩陣相乘運算次方.Resources.resources
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.vbproj.CoreCompileInputs.cache
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.exe
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.xml
+C:\Users\CKVS\Desktop\20190816\6.多矩陣相乘運算次方\obj\Debug\6.多矩陣相乘運算次方.pdb
+D:\林星儒\工科歷屆試題\102年\102年 Q6\bin\Debug\6.多矩陣相乘運算次方.exe.config
+D:\林星儒\工科歷屆試題\102年\102年 Q6\obj\Debug\6.多矩陣相乘運算次方.exe
+D:\林星儒\工科歷屆試題\102年\102年 Q6\obj\Debug\6.多矩陣相乘運算次方.xml
+D:\林星儒\工科歷屆試題\102年\102年 Q6\obj\Debug\6.多矩陣相乘運算次方.pdb

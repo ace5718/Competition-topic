@@ -1,0 +1,24 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.pdb
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+G:\林星儒\工科歷屆試題\94年\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

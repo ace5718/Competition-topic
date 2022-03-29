@@ -1,0 +1,24 @@
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\bin\Debug\106年 Q2.exe.config
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\bin\Debug\106年 Q2.exe
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\bin\Debug\106年 Q2.pdb
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\bin\Debug\106年 Q2.xml
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\obj\Debug\106年 Q2.vbprojResolveAssemblyReference.cache
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\obj\Debug\_106年_Q2.Resources.resources
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\obj\Debug\106年 Q2.vbproj.GenerateResource.Cache
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\obj\Debug\106年 Q2.exe
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\obj\Debug\106年 Q2.xml
+C:\Users\CKVS\AppData\Local\Temporary Projects\106年 Q2\obj\Debug\106年 Q2.pdb
+E:\林星儒\106年 Q2\bin\Debug\106年 Q2.exe.config
+E:\林星儒\106年 Q2\obj\Debug\106年 Q2.exe
+E:\林星儒\106年 Q2\obj\Debug\106年 Q2.xml
+E:\林星儒\106年 Q2\obj\Debug\106年 Q2.pdb
+E:\林星儒\106年 Q2\bin\Debug\106年 Q2.exe
+E:\林星儒\106年 Q2\bin\Debug\106年 Q2.pdb
+E:\林星儒\106年 Q2\bin\Debug\106年 Q2.xml
+E:\林星儒\106年 Q2\obj\Debug\106年 Q2.vbprojResolveAssemblyReference.cache
+E:\林星儒\106年 Q2\obj\Debug\_106年_Q2.Resources.resources
+E:\林星儒\106年 Q2\obj\Debug\106年 Q2.vbproj.GenerateResource.Cache
+E:\林星儒\工科歷屆試題\106年\106年 Q2\bin\Debug\106年 Q2.exe.config
+E:\林星儒\工科歷屆試題\106年\106年 Q2\obj\Debug\106年 Q2.exe
+E:\林星儒\工科歷屆試題\106年\106年 Q2\obj\Debug\106年 Q2.xml
+E:\林星儒\工科歷屆試題\106年\106年 Q2\obj\Debug\106年 Q2.pdb

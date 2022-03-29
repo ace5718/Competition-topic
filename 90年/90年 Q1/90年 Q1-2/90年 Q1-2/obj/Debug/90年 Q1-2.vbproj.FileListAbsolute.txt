@@ -1,0 +1,11 @@
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\bin\Debug\90年 Q1-2.exe.config
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\bin\Debug\90年 Q1-2.exe
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\bin\Debug\90年 Q1-2.pdb
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\bin\Debug\90年 Q1-2.xml
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\obj\Debug\90年 Q1-2.vbprojAssemblyReference.cache
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\obj\Debug\ConsoleApp1.Resources.resources
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\obj\Debug\90年 Q1-2.vbproj.GenerateResource.cache
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\obj\Debug\90年 Q1-2.vbproj.CoreCompileInputs.cache
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\obj\Debug\90年 Q1-2.exe
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\obj\Debug\90年 Q1-2.xml
+J:\林星儒\工科歷屆試題\90年\90年 Q1-2\90年 Q1-2\obj\Debug\90年 Q1-2.pdb

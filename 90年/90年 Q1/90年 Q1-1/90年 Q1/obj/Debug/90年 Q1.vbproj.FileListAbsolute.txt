@@ -1,0 +1,12 @@
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\bin\Debug\90年 Q1.exe.config
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\bin\Debug\90年 Q1.exe
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\bin\Debug\90年 Q1.pdb
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\bin\Debug\90年 Q1.xml
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\obj\Debug\90年 Q1.vbprojAssemblyReference.cache
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\obj\Debug\WindowsApp1.Form1.resources
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\obj\Debug\WindowsApp1.Resources.resources
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\obj\Debug\90年 Q1.vbproj.GenerateResource.cache
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\obj\Debug\90年 Q1.vbproj.CoreCompileInputs.cache
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\obj\Debug\90年 Q1.exe
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\obj\Debug\90年 Q1.xml
+E:\林星儒\工科歷屆試題\90年\90年 Q1-1\90年 Q1\obj\Debug\90年 Q1.pdb

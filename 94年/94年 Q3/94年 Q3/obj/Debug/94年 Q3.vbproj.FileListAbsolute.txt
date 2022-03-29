@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\bin\Debug\94年 Q3.exe.config
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\bin\Debug\94年 Q3.exe
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\bin\Debug\94年 Q3.pdb
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\bin\Debug\94年 Q3.xml
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\obj\Debug\94年 Q3.vbprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\obj\Debug\94年 Q3.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\obj\Debug\94年 Q3.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\obj\Debug\94年 Q3.exe
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\obj\Debug\94年 Q3.xml
+C:\Users\ASUS\Desktop\94年 Q3\94年 Q3\obj\Debug\94年 Q3.pdb
+D:\林星儒\工科歷屆試題\94年\94年 Q3\94年 Q3\bin\Debug\94年 Q3.exe.config
+D:\林星儒\工科歷屆試題\94年\94年 Q3\94年 Q3\obj\Debug\94年 Q3.exe
+D:\林星儒\工科歷屆試題\94年\94年 Q3\94年 Q3\obj\Debug\94年 Q3.xml
+D:\林星儒\工科歷屆試題\94年\94年 Q3\94年 Q3\obj\Debug\94年 Q3.pdb

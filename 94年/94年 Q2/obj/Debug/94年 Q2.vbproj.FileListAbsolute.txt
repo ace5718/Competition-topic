@@ -1,0 +1,15 @@
+C:\Users\CKVS\Desktop\94年 Q2\bin\Debug\94年 Q2.exe.config
+C:\Users\CKVS\Desktop\94年 Q2\obj\Debug\94年 Q2.vbprojResolveAssemblyReference.cache
+C:\Users\CKVS\Desktop\94年 Q2\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\CKVS\Desktop\94年 Q2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\CKVS\Desktop\94年 Q2\obj\Debug\94年 Q2.vbproj.GenerateResource.Cache
+C:\Users\CKVS\Desktop\94年 Q2\obj\Debug\94年 Q2.xml
+C:\Users\CKVS\Desktop\94年 Q2\bin\Debug\94年 Q2.exe
+C:\Users\CKVS\Desktop\94年 Q2\bin\Debug\94年 Q2.pdb
+C:\Users\CKVS\Desktop\94年 Q2\bin\Debug\94年 Q2.xml
+C:\Users\CKVS\Desktop\94年 Q2\obj\Debug\94年 Q2.exe
+C:\Users\CKVS\Desktop\94年 Q2\obj\Debug\94年 Q2.pdb
+E:\林星儒\工科歷屆試題\94年(OK)\94年 Q2\bin\Debug\94年 Q2.exe.config
+E:\林星儒\工科歷屆試題\94年(OK)\94年 Q2\obj\Debug\94年 Q2.exe
+E:\林星儒\工科歷屆試題\94年(OK)\94年 Q2\obj\Debug\94年 Q2.xml
+E:\林星儒\工科歷屆試題\94年(OK)\94年 Q2\obj\Debug\94年 Q2.pdb
